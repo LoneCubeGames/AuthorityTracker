@@ -1,6 +1,6 @@
 ![Model](Promo/Promo_Main.png)
 
-**ORIGINAL BOARD GAME:** [www.starrealms.com](https://www.starrealms.com)
+**ORIGINAL BOARD GAME:** [boardgamegeek](https://boardgamegeek.com/boardgame/147020/star-realms)
 
 **WEB VERSION:** [open:](https://play.unity.com/en/games/238e2072-16b3-4913-b810-cbad4ce5dc7e/authority-tracker)
 
